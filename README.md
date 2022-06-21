@@ -1,7 +1,11 @@
-# Repo description:
+# Neutrino oscillations in vaccum:
+
+Code to Neutrino oscillations in vaccum in `Mathematica`
+
+## Repository content
 
 * 2_neut_oscil_vac.nb
- 	- Two neutrino oscillation in vaccum.
+ 	- Two neutrino oscillations in vaccum.
 	
 * 3_neut_oscil_vac.nb
-	- Three neutrino oscillation in vaccum.
+	- Three neutrino oscillations in vaccum.
