@@ -1,4 +1,4 @@
-Brief files description:
+# Brief files description:
 
 1. 2_neut_oscil_vac.nb
  	- Two neutrino oscillation in vaccum.
