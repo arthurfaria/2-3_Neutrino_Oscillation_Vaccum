@@ -1,4 +1,4 @@
-# Neutrino oscillations in vaccum:
+# Neutrino oscillations in vacuum:
 
 Code to Neutrino oscillations in vaccum in `Mathematica`
 
