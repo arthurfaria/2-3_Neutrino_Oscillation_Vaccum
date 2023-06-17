@@ -1,11 +1,11 @@
 # Neutrino oscillations in vacuum:
 
-Code to Neutrino oscillations in vaccum in `Mathematica`
+This code, implemented in `Mathematica`, simulates neutrino oscillations in a vacuum considering 2 and 3 flavors.
 
 ## Repository content
 
 * 2_neut_oscil_vac.nb
- 	- Two neutrino oscillations in vaccum.
+ 	- Neutrino oscillations for two flavors in a vacuum.
 	
 * 3_neut_oscil_vac.nb
-	- Three neutrino oscillations in vaccum.
+	- Neutrino oscillations for three flavors in a vacuum.
